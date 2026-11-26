@@ -1,0 +1,49 @@
+﻿<Window x:Class="zakharov_01_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zakharov_01_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border BorderThickness="1" BorderBrush="Black" Margin="10" Grid.Column="0">
+            <StackPanel>
+                <Label>Название процессора</Label>
+                <TextBox x:Name="TB_name"/>
+                <Label>Тактовая частота</Label>
+                <TextBox x:Name="TB_clock1"/>
+                <Label>Оперативная память</Label>
+                <TextBox x:Name="TB_ram"/>
+
+                <Border BorderThickness="1" BorderBrush="Black" Margin="10 40 10 10">
+                    <TextBlock x:Name="output_c1" Height="150" TextWrapping="Wrap"/>
+                </Border>
+                <Button x:Name="Button1" Content="Ввести данные и показать их" Click="Button1_Click"/>
+            </StackPanel>
+        </Border>
+
+        <Border BorderThickness="1" BorderBrush="Black" Margin="10" Grid.Column="1">
+            <StackPanel>
+                <Label>Название процессора</Label>
+                <TextBox x:Name="TB_name2"/>
+                <Label>Тактовая частота</Label>
+                <TextBox x:Name="TB_clock2"/>
+                <Label>Оперативная память</Label>
+                <TextBox x:Name="TB_ram2"/>
+                <Label>Объекм винчестера</Label>
+                <TextBox x:Name="TB_p"/>
+
+                <Border BorderThickness="1" BorderBrush="Black" Margin="10 10 10 10">
+                    <TextBlock x:Name="output_c2" Height="130" TextWrapping="Wrap"/>
+                </Border>
+                <Button x:Name="Button2" Content="Ввести данные и показать их" Click="Button2_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

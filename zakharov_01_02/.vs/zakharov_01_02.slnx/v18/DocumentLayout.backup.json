@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mdk\\zakharov_01_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|d:\\mdk\\zakharov_01_02\\zakharov_01_02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|solutionrelative:zakharov_01_02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|d:\\mdk\\zakharov_01_02\\zakharov_01_02\\computerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|solutionrelative:zakharov_01_02\\computerp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|d:\\mdk\\zakharov_01_02\\zakharov_01_02\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|solutionrelative:zakharov_01_02\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|d:\\mdk\\zakharov_01_02\\zakharov_01_02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1BB6D1-731E-AC4D-2CE6-1E721579D84F}|zakharov_01_02\\zakharov_01_02.csproj|solutionrelative:zakharov_01_02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\Computer.cs",
+              "RelativeDocumentMoniker": "zakharov_01_02\\Computer.cs",
+              "ToolTip": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\Computer.cs",
+              "RelativeToolTip": "zakharov_01_02\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T04:38:36.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zakharov_01_02\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zakharov_01_02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T04:38:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerP.cs",
+              "DocumentMoniker": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\ComputerP.cs",
+              "RelativeDocumentMoniker": "zakharov_01_02\\ComputerP.cs",
+              "ToolTip": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\ComputerP.cs",
+              "RelativeToolTip": "zakharov_01_02\\ComputerP.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T04:52:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zakharov_01_02\\MainWindow.xaml",
+              "ToolTip": "D:\\mdk\\zakharov_01_02\\zakharov_01_02\\MainWindow.xaml",
+              "RelativeToolTip": "zakharov_01_02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-26T04:38:04.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
